@@ -1,0 +1,21 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "TemplatePlugin",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "Your Company",
+	"CreatedByURL" : "http://epicgames.com",
+	"EngineVersion" : "4.2.0",
+	"Description" : "This plugin will do something, some day.",
+	"Category" : "Developer",
+	"EnabledByDefault" : true,
+	
+	"Modules" :
+	[
+		{
+			"Name" : "TemplatePlugin",
+			"Type" : "Developer"
+		}
+	]
+}
