@@ -1,5 +1,6 @@
 #include "TemplatePluginPrivatePCH.h"
 
+DEFINE_LOG_CATEGORY(LogTemplatePlugin);
 
 class FTemplatePlugin : public ITemplatePlugin
 {
