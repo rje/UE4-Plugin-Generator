@@ -9,13 +9,13 @@
 	"EngineVersion" : "4.2.0",
 	"Description" : "This plugin will do something, some day.",
 	"Category" : "Developer",
-	"EnabledByDefault" : true,
+	"EnabledByDefault" : false,
 	
 	"Modules" :
 	[
 		{
 			"Name" : "TemplatePlugin",
-			"Type" : "Developer"
+			"Type" : "Runtime"
 		}
 	]
 }
